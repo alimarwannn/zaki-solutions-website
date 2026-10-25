@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="8 2 84 70" role="img" aria-label="Zaki">
+  <line x1="50" y1="24" x2="50" y2="10" stroke="#b88a3b" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="50" cy="8" r="5" fill="#d1a24b"/>
+  <rect x="13" y="38" width="7" height="16" rx="3.5" fill="#b88a3b"/>
+  <rect x="80" y="38" width="7" height="16" rx="3.5" fill="#b88a3b"/>
+  <rect x="19" y="24" width="62" height="44" rx="16" fill="#f7f6f2" stroke="#b88a3b" stroke-width="3"/>
+  <rect x="27" y="33" width="46" height="26" rx="12" fill="#111716"/>
+  <rect x="37" y="40" width="8" height="11" rx="4" fill="#d1a24b"/>
+  <rect x="55" y="40" width="8" height="11" rx="4" fill="#d1a24b"/>
+  <path d="M44 54 q6 3.5 12 0" stroke="#d1a24b" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>
