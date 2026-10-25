@@ -174,7 +174,7 @@ html[lang="ar"] .link-arrow:hover::after { transform: translateX(-4px); }
   .header-tools { margin-inline-start: auto; }
   .mobile-nav { display: none; border-top: 1px solid var(--line); padding: 10px 0 18px; }
   .mobile-nav.open { display: block; }
-  .mobile-nav a:not(.btn) { display: block; padding: 13px 4px; border-bottom: 1px solid var(--line); font-weight: 700; font-size: 17px; }
+  .mobile-nav a:not(.btn), .mobile-nav-btn { display: block; width: 100%; padding: 13px 4px; border: 0; border-bottom: 1px solid var(--line); background: none; color: inherit; font: inherit; font-weight: 700; font-size: 17px; text-align: start; cursor: pointer; }
   .mobile-nav .btn-row { margin-top: 16px; }
   .mobile-nav .btn { flex: 1 1 100%; }
 }

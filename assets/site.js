@@ -33,6 +33,7 @@
   };
 
   var root = document.documentElement;
+  window.zsReady = true; // the inline head script un-hides .reveal content if this file never runs
   var store = {
     get: function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } },
     set: function (k, v) { try { localStorage.setItem(k, v); } catch (e) { /* private mode */ } }
